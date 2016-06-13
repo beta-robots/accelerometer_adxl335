@@ -2,12 +2,12 @@
 This repository holds an Arduino library to read data from a [ADXL335](https://www.sparkfun.com/datasheets/Components/SMD/adxl335.pdf) accelerometer.
 
 ### Download
-In case the Arduino libraries folder didn't exist, create it with:
+In case the Arduino libraries folder didn't exist, create it within your Arduino sketch book:
 ```shell
 $ mkdir [somewhere]/your-sketch-book/libraries
 ```
 
-Move to you Arduino libraries folder:
+Move to your Arduino libraries folder:
 ```shell
 $ cd [somewhere]/your-sketch-book/libraries
 ```
