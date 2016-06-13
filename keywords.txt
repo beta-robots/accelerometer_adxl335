@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AccelerometerADXL335   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getVoltageX   KEYWORD2
+getVoltageY   KEYWORD2
+getVoltageZ    KEYWORD2
+getVoltageXYZ    KEYWORD2
+
+#to do ....
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GRAVITY LITERAL1
+N_READINGS_DEFAULT LITERAL1
