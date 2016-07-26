@@ -18,7 +18,7 @@ $ git clone https://github.com/beta-robots/accelerometer_adxl335.git
 ```
 
 ### How To Use It
-Take a look at the examples/adxl335_reading.ino file to play with the accelerometer or get inspiration for your 
+Take a look at the examples/adxl335_reading.ino file to play with the accelerometer or to get inspiration for your 
 developments.
 
 ![Wiring example of accelerometer ADXL335](https://github.com/beta-robots/accelerometer_adxl335/blob/master/media/20160318_154117.jpg)
